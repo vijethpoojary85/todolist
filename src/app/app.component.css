@@ -1,0 +1,11 @@
+.btn {
+    color: white;
+    background-color: blue;
+}
+.container-fluid{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.container{
+    padding-top: 50px;
+}

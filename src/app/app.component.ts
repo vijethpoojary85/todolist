@@ -3,8 +3,16 @@ import { Component } from '@angular/core';
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
-  styleUrl: './app.component.css'
+  styleUrl: './app.component.css',
 })
 export class AppComponent {
   title = 'todo-list';
+  // constructor() {
+  //   setTimeout(() => {
+  //     this.title = 'Vijeth';
+  //   }, 5000);
+  // }
+
+
+  
 }
